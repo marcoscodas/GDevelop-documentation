@@ -16,7 +16,7 @@ There are two requirements to collaborate on a project:
 
 !!! note 
 
-    Are you working in education and **would like students to collaborate** on a project? The Pro subscription is **most probably not adapted to your use-case**. Check out the [GDevelop for Education plan](https://gdevelop.io/pricing/education) instead.
+    Are you in the education sector? The Pro subscription **not for you**. Check out the [GDevelop for Education plan](https://gdevelop.io/pricing/education) instead. GDevelop for Education offers a built-in curriculum, classroom management tools, and more. This collaboration feature is **not** ready for mass deployment and is **not** available to GDevelop for Education subscribers. 
 
 ## Invite people to share a project
 
